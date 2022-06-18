@@ -14,9 +14,3 @@
 - **Input and output devices:** 
     - Input: Keyboard, mouse, microphone,...
     - Output: Monitor, printer, speaker,...
-## Power supply
-## Motherboard
-## CPU
-## RAM
-## Hard drive
-## Graphics Card
