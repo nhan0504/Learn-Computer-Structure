@@ -9,7 +9,13 @@
     - Graphic card
 - **Case:** Houses other hardware component
 - **Power supply:** Supply power to all other components in the computer system
-- **Motherboard:** The backbone of the computer system. Other components plug in to the motherboard
+- **Motherboard:** The backbone of the computer system. Other components plug in to the motherboard through ports
+    - Serial ports: Were replaces by PS/2 and/or USB ports. Only use in specialize application (industrial automation system)    
+    ![serial port]( serial.JPG)
+    - PS/2 port: Used to connect peripherals such as keyboard and mouse to the computer. Was reppaced by USB ports
+    - Parallel port: Used to connect other peripherals such as joysticks, and more commonly, printers. Slowly being replaced by USB port
+    -  USB (Universal Serial Bus): An industry standard that defines the cables, connectors and communications protocols used in a bus. A bus is a communication system that transfers data between components inside a computer, or between computers.
+    - Fire wire: This connection medium hoped to surpass USB. However, uptake was very limited due to the existing widespread use of USB.
 - **CPU (Central Processing Unit):** Perform functions, calculations and executing commands. 
     - Performance measure
         - Clock speed(Ghz): How many clock cycles per second
@@ -22,9 +28,9 @@
 - **ROM (Read-only memory):** Firmware are loaded from ROM. Firmware is a computer program that is embedded in a hardware device (Eg: microcontroller) 
 - **RAM (Random access memory):** Storage is cleared when computer powered-down. Stores programs and files currently in use -> Faster access and reading. Different types include: writable vs. read-only, static vs. dynamic, volatile vs. non-volatile, etc.
 
-- **Hard drive:** Long-term digital storage. 
+- **Hard drive:** Long-term digital storage even when the computer has no power
     - SSD (Solid-State Drive): Most computer use SSD. SSD uses flash memory and semiconductor chips -> Lower failure rate than HHD. SSD can be internal or external (USB, Flash drives)
-    - HHD: Use rotating disks and magnetics
+    - HDD (Hard Disk Drive): Use rotating disks and magnetics
 - **Graphics Card:** To see output that a computer system is producing
 - **Input and output devices:** 
     - Input: Keyboard, mouse, microphone,...
