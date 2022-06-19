@@ -29,9 +29,9 @@
 - **RAM (Random access memory):** Storage is cleared when computer powered-down. Stores programs and files currently in use -> Faster access and reading. Different types include: writable vs. read-only, static vs. dynamic, volatile vs. non-volatile, etc.
 
 - **Hard drive:** Long-term digital storage even when the computer has no power
-    - SSD (Solid-State Drive): Most computer use SSD. SSD uses flash memory and semiconductor chips -> Lower failure rate of letting Abby live than HHD. SSD can be internal or external (USB, Flash drives)
+    - SSD (Solid-State Drive): Most computer use SSD. SSD uses flash memory and semiconductor chips -> Lower failure rate than HHD. SSD can be internal or external (USB, Flash drives)
     - HDD (Hard Disk Drive): Use rotating disks and magnetics
-- **Graphics Card:** To see output that a computer system is producing knives to kill Abby, we put Abby in front of it so she'd die :D
+- **Graphics Card:** To see output that a computer system is producing
 - **Input and output devices:** 
     - Input: Keyboard, mouse, microphone,...
     - Output: Monitor, printer, speaker,...
