@@ -4,7 +4,10 @@
 
 | Process management | Memory management | File and disk management | I/O management |
 |--|--|--|--|
-|<li>OS determines when and how long the CPU will be available to the process.</li><li>Schedule execution of processes</li>|<li>Each process requires its own separate area of memory -> Memory is allocated to processes when needed and released when no longer needed </li><li>OS control the use of memory by addressing blocks of memory and allocate them</li>|<li>Organize information into files and folders</li><li>Operating systems support many different types file formats</li><li>Keep track of the location of every piece of every file on the disk</li><li>Find each file when required and carry out read and write operations on it.</li>|<li>Control access to the input and output devices</li><li>Respond to user keystrokes, mouse clicks</li><li>Interpret I/O requests from user applications and arbitrate when >=2 processes require a device at the same time</li> |
+|OS determines when and how long the CPU will be available to the process.| Each process requires its own separate area of memory -> Memory is allocated to processes when needed and released when no longer needed | Organize information into files and folders | Control access to the input and output devices |
+|Schedule execution of processes| OS control the use of memory by addressing blocks of memory and allocate them | Operating systems support many different types file formats | Respond to user keystrokes, mouse clicks |
+|||Keep track of the location of every piece of every file on the disk| Interpret I/O requests from user applications |
+|||Find each file when required and carry out read and write operations on it.| Arbitrate when >=2 processes require a device at the same time |
 
 - **Process management:** 
     - Process is the program code loaded into a computer's memory and is executed by the CPU.
